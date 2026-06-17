@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37111.16 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Probability", "Probability.vcxproj", "{9163D75A-572C-476A-8E20-DAA628BE4DBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9163D75A-572C-476A-8E20-DAA628BE4DBF}.Debug|x64.ActiveCfg = Debug|x64
+		{9163D75A-572C-476A-8E20-DAA628BE4DBF}.Debug|x64.Build.0 = Debug|x64
+		{9163D75A-572C-476A-8E20-DAA628BE4DBF}.Debug|x86.ActiveCfg = Debug|Win32
+		{9163D75A-572C-476A-8E20-DAA628BE4DBF}.Debug|x86.Build.0 = Debug|Win32
+		{9163D75A-572C-476A-8E20-DAA628BE4DBF}.Release|x64.ActiveCfg = Release|x64
+		{9163D75A-572C-476A-8E20-DAA628BE4DBF}.Release|x64.Build.0 = Release|x64
+		{9163D75A-572C-476A-8E20-DAA628BE4DBF}.Release|x86.ActiveCfg = Release|Win32
+		{9163D75A-572C-476A-8E20-DAA628BE4DBF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26E0ECE8-F6A0-4FBB-BF9D-40B992611A4D}
+	EndGlobalSection
+EndGlobal
